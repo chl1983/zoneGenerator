@@ -1,0 +1,2 @@
+#zoneGenerator
+This tool is used to generate zone create command for Cisco or Brocade SAN switch. For the resource to generate the zone command,it need a file to describe the world wide name of zone members and zone names.But the config/zoneset name will be filled in the GUI,not in the decriptive file.Also the name/path of the descriptive file and the name/path of the target file which used to generate the command should be filled in the GUI.
